@@ -120,14 +120,14 @@ export const socials = [
     items: [
       {
         label: "Global",
-        href: "https://t.me/BSCTrust",
+        href: "https://t.me/yearnyfinetworkAnn",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/bsctrust_fin",
+    href: "https://twitter.com/yearnyfinetwork",
   },
 ];
 
